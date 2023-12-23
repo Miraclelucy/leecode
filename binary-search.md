@@ -5,6 +5,7 @@
 参考这个帖子的解释：https://blog.csdn.net/groovy2007/article/details/78309120  
 参考灵神的视频：[二分查找](https://www.bilibili.com/video/BV1AP41137w7/?spm_id_from=333.788&vd_source=3884cf9e9efe10867ec8021e556f602c)   
 ### 红蓝二分法
+蓝红区域的划分方案最终是由程序员确定的，在思考解决方案的过程中，蓝红区域的划分方案有可能有多种，但是我们应该尽量选择最优划分方案，这非常考验程序员的建模能力！  
 掌握五点七边的视频：这个红蓝二分法才是真的通透[二分查找为什么总是写错？](https://www.bilibili.com/video/BV1d54y1q7k7/?spm_id_from=333.999.0.0&vd_source=3884cf9e9efe10867ec8021e556f602c)  
 红蓝二分法的模版总结：[二分查找6种模版，重点是第六版-红蓝模版哈！！](https://leetcode.cn/circle/discuss/ObmjbJ/)  
 红蓝二分法的题单：[二分查找全部题单](https://leetcode.cn/circle/discuss/xYBtLt/)  
