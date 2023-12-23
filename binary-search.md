@@ -5,7 +5,7 @@
 参考这个帖子的解释：https://blog.csdn.net/groovy2007/article/details/78309120
 参考灵神的视频：[二分查找](https://www.bilibili.com/video/BV1AP41137w7/?spm_id_from=333.788&vd_source=3884cf9e9efe10867ec8021e556f602c)
 这个红蓝二分法才是真的通透[二分查找为什么总是写错？](https://www.bilibili.com/video/BV1d54y1q7k7/?spm_id_from=333.999.0.0&vd_source=3884cf9e9efe10867ec8021e556f602c)
-[二分查找6中模版，重点是红蓝模版哈！！]https://leetcode.cn/circle/discuss/ObmjbJ/
+[二分查找6中模版，重点是红蓝模版哈！！](https://leetcode.cn/circle/discuss/ObmjbJ/)
 [二分查找全部题单](https://leetcode.cn/circle/discuss/xYBtLt/)
 # 2. 基础题
 - [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/)
